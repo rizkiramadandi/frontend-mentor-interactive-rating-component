@@ -11,7 +11,7 @@ function App() {
         {submit === false ? (
         <div className="card">
           <div className='rating-icon'>
-            <img src="./public/images/icon-star.svg" alt="Star icon" />
+            <img src="./images/icon-star.svg" alt="Star icon" />
           </div>
           <h1 className='card-title'>How did we do?</h1>
           <p className='card-subtitle'>
@@ -29,7 +29,7 @@ function App() {
         ):(
         <div className='card thank-you'>
           <div className='thank-you-image'>
-            <img src="./public/images/illustration-thank-you.svg" alt="Thank you illustration" />
+            <img src="./images/illustration-thank-you.svg" alt="Thank you illustration" />
           </div>
           <div className='your-rating'>
             You selected {selectedRating} out of 5
