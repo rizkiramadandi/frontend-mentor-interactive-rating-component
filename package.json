@@ -2,6 +2,7 @@
   "name": "interactive-rating-component-main",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/rizkiramadandi/frontend-mentor-interactive-rating-component",
   "type": "module",
   "scripts": {
     "dev": "vite",
